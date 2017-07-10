@@ -1,0 +1,22 @@
+body, nav, header, section, article, div{
+    
+    padding: 0;
+    margin 0;
+    box-sizing: border-box;
+    
+    
+}
+
+main seciton div{
+    height: 100px;
+    width: 100px;
+    padding 0;
+    margin 0;
+    background: green;
+    
+}
+
+section div:nth-child(2){
+    background: blue;
+    
+}
